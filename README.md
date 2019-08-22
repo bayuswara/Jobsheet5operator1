@@ -13,4 +13,7 @@
 # Latihan 7
 ![Alt Text](https://github.com/bayuswara/Jobsheet5operator1/blob/master/Latihan%207.png)
 # Latihan 8
-![Alt Text](https://github.com/bayuswara/Jobsheet5operator1/blob/master/Latihan%208.png)
+![Alt Text](https://github.com/bayuswara/Jobsheet5operator1/blob/master/Screenshot%20(30).png) 
+# Berapa nilai variabel A ? 2
+# Berapa nilai variabel B ? 2
+#
